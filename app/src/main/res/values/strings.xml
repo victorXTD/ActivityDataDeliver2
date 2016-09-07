@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityDataDeliver2</string>
+    <string name="app_will_send_text_back_to_textview_at_mainactivity">App will send text back to TextView at MainActivity</string>
+    <string name="send_text_to_secondactivity">Send Text To SecondActivity</string>
+</resources>
